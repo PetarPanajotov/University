@@ -1,0 +1,41 @@
+body {
+    background-color: rgba(0, 0, 0, 0.847)
+}
+.inputs{
+    color: white;
+    text-align: center;
+    font-family: serif;
+    font-size: 33px;   
+}
+input {
+    width: 120px;
+    height: 40px;
+    font-family: serif;
+    text-align: center;
+    font-size: 23px;
+    background-color: rgb(255, 255, 255);
+}
+label { display: inline-block;
+    text-align: center;
+
+}
+#myDiv {
+    width: 750px;
+    padding-top: 10%;
+    padding-left: 27%;
+}
+button {
+    color: black;
+    font-family: fantasy;
+    font-size: 33px;
+    background-color: rgb(255, 255, 255);
+    width: 170px;  
+    height: 55px;
+    border: 1px;
+    border-radius: 7px;
+    padding: 8px 14px;
+    position: absolute;
+    right: 42%;
+    bottom: 74.5%;
+
+}
